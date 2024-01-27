@@ -1,4 +1,4 @@
-import numpy as np
+
 
 # Goal is to implement matrix multiplcation A*B = C 
 def matrix_multiply(A, B):
